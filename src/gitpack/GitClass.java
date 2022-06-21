@@ -10,10 +10,6 @@ public class GitClass {
 		
 		System.out.println("Hi....I'm github");
 		System.out.println("Hellooo");
-		System.out.println("Hiiii");
-		
-		
-		
 		
 	}
 
